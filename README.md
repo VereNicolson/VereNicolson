@@ -2,7 +2,7 @@
 - 👀 I’m interested in Arduino used for wildlife conservation and research
 - 🌱 I’m currently learning the hard way
 - 💞️ I’m looking to collaborate on Any wildlife associated projects
-- 📫 How to reach me verenicolson@gmail.com
+- 📫 How to reach me FaceBookMessenger, search the name
 
 <!---
 VereNicolson/VereNicolson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
